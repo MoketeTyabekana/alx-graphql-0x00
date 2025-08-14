@@ -1,0 +1,11 @@
+{
+  "data": {
+    "character": {
+      "id": "2",
+      "name": "Morty Smith",
+      "status": "Alive",
+      "type": "",
+      "gender": "Male"
+    }
+  }
+}
