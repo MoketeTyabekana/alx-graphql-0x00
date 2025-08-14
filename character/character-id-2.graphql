@@ -6,6 +6,5 @@ query {
     status
     type
     gender
-    
   }
 }
